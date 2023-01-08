@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student with great interest in full stack development, cloud computing and blockchain.
+Passionate Computer Science Engineering Student. Dedicated, diligent, effective at communicating, and very adaptive to work. Always eager to learn new skills and technologies.
 
 
 ## 🌐 Socials:
