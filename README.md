@@ -12,6 +12,6 @@ Passionate Computer Science Engineering Student. Dedicated, diligent, effective 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aviralj02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aviralj02&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitors](https://komarev.com/ghpvc/?username=aviralj02&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
